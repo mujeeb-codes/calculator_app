@@ -1,16 +1,33 @@
-# calculator_app
+# 🧮 Calculator App
 
-A new Flutter project.
+A Flutter-based calculator application with a clean and user-friendly interface.  
+Unlike a basic calculator, this app includes a **history feature** that allows users to keep track of past calculations easily.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ➕ Perform basic arithmetic operations (Add, Subtract, Multiply, Divide).  
+- 📝 **History Tracking** – View and manage your previous calculations.  
+- 📱 **Simple & Clean UI** – Easy-to-use design for smooth experience.  
+- ⚡ Fast and lightweight performance.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter** (Dart)  
+- **State Management**: setState 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshot
+
+![Calculator App](screenshots/demo_image.jpg)
+
+---
+
+## 📂 Getting Started
+
+### Installation
+```bash
+# Clone this repository
+git clone https://github.com/your-username/calculator_app.git
